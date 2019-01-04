@@ -1,5 +1,5 @@
 %MOISES BARBERA RAMOS
-%15/12/2017
+%15-12-2017
  
 clear all;
 close all;
