@@ -6,8 +6,6 @@ Covering topicts on:
 
 ---- Extraction of general information pre-analysis;
 
----- Data cleaning;
-
 ---- Data imaging/visualization;
 
 ---- Data cleaning;
