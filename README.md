@@ -1,7 +1,18 @@
 # Data analysis files
 
-Different programs coded in order to analyse big amounts of data.
-Main purposes:
+## Python code showing:
+-An extensive analysis on a big amount of reviews from the Amazon Alexa devices (data from Kaggle.com - amazon_alexa.tsv)
+Covering topicts on:
+
+---- Extraction of general information pre-analysis;
+---- Data cleaning;
+---- Data imaging/visualization;
+---- Data cleaning;
+---- Creation of new data sets;
+---- Feature engineering;
+---- Conclusions
+
+## MATLAB code covering sections on:
 
 -Study of x-ray diffraction for crystalography;
 
