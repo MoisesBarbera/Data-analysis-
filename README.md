@@ -5,11 +5,17 @@
 Covering topicts on:
 
 ---- Extraction of general information pre-analysis;
+
 ---- Data cleaning;
+
 ---- Data imaging/visualization;
+
 ---- Data cleaning;
+
 ---- Creation of new data sets;
+
 ---- Feature engineering;
+
 ---- Conclusions
 
 ## MATLAB code covering sections on:
