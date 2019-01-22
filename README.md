@@ -6,7 +6,7 @@ An extensive analysis on a big amount of reviews from the Amazon Alexa devices (
 ###  2. Predicting_Bussiness_Revenue_Linear_Regresion.ipynb	
 A case scenario of a small business predicting its expected revenue depending on the temperature on a given day (data IceCream.csv)
 
-Covering topicts on:
+### Covering topicts on:
 
 ---- Extraction of general information pre-analysis;
 
