@@ -1,7 +1,8 @@
 # Data analysis files
 
 ## Python code showing:
-###  1. An extensive analysis on a big amount of reviews from the Amazon Alexa devices (data from Kaggle.com - amazon_alexa.tsv)
+###  1. Amazon_Alexa_Reviews_Analysis.ipynb
+An extensive analysis on a big amount of reviews from the Amazon Alexa devices (data from Kaggle.com - amazon_alexa.tsv)
 ###  2. A case scenario of a small business predicting its expected revenue depending on the temperature on a given day (data IceCream.csv)
 
 Covering topicts on:
