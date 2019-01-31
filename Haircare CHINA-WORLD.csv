@@ -1,0 +1,41 @@
+Classification,Year,Aggregate Level,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner,Partner ISO,Commodity Code,Commodity,Qty Unit,Qty,Alt Qty Unit,Netweight (kg),Trade Value (US$)
+H5,2017,4,Import,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,43715047,43715047,347756330
+H5,2017,4,Export,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,96574233,96574233,266020875
+H5,2017,6,Import,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,28418948,28418948,183842298
+H5,2017,6,Export,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,57766042,57766042,118788938
+H5,2017,6,Import,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,391687,391687,2678514
+H5,2017,6,Export,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,1447114,1447114,5370813
+H5,2017,6,Import,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,444358,444358,4771535
+H5,2017,6,Export,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,6011075,6011075,18604804
+H5,2017,6,Import,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,14460053,14460053,156463983
+H5,2017,6,Export,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,31350002,31350002,123256320
+H4,2014,4,Import,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,18956031,18956031,131158234
+H4,2014,4,Export,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,102625523,102625523,299820503
+H4,2015,4,Import,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,29328468,29328468,237612714
+H4,2015,4,Export,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,105119979,105119979,294224204
+H4,2016,4,Import,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,38841663,38841663,266517184
+H4,2016,4,Export,156,China,CHN,World,WLD,3305,Hair preparations; for use on the hair,Weight in kilograms,,97907786,97907786,255109682
+H4,2014,6,Import,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,10717066,10717066,61918603
+H4,2014,6,Export,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,66100912,66100912,145839988
+H4,2015,6,Import,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,18591669,18591669,128261391
+H4,2015,6,Export,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,69318268,69318268,144933594
+H4,2016,6,Import,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,26310173,26310173,154018739
+H4,2016,6,Export,156,China,CHN,World,WLD,330510,Hair preparations; shampoos,Weight in kilograms,,61772850,61772850,123851450
+H4,2014,6,Import,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,351616,351616,2459546
+H4,2014,6,Export,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,1456797,1456797,5571447
+H4,2015,6,Import,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,541683,541683,2974804
+H4,2015,6,Export,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,1220368,1220368,4988933
+H4,2016,6,Import,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,530328,530328,3090496
+H4,2016,6,Export,156,China,CHN,World,WLD,330520,Hair preparations; for permanent waving or straightening,Weight in kilograms,,1173969,1173969,4305152
+H4,2014,6,Import,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,502183,502183,8431623
+H4,2014,6,Export,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,5375581,5375581,20146414
+H4,2015,6,Import,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,534215,534215,8846361
+H4,2015,6,Export,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,5207956,5207956,21923533
+H4,2016,6,Import,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,409175,409175,3064809
+H4,2016,6,Export,156,China,CHN,World,WLD,330530,Hair preparations; lacquers,Weight in kilograms,,4975641,4975641,15033021
+H4,2014,6,Import,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,7385166,7385166,58348462
+H4,2014,6,Export,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,29692233,29692233,128262654
+H4,2015,6,Import,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,9660900,9660900,97530158
+H4,2015,6,Export,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,29373387,29373387,122378144
+H4,2016,6,Import,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,11591987,11591987,106343140
+H4,2016,6,Export,156,China,CHN,World,WLD,330590,Hair preparations; n.e.c. in heading no. 3305,Weight in kilograms,,29985326,29985326,111920059

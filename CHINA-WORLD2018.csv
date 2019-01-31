@@ -1,0 +1,233 @@
+Classification,Year,Period,Period Desc.,Trade Flow,Reporter Code,Reporter,Partner,Commodity Code,Commodity,Netweight (kg),Trade Value (US$)
+HS,2018,201801,Jan-18,Imports,710,South Africa,China,3305,Hair preparations; for use on the hair,70930,182707
+HS,2018,201803,Mar-18,Imports,710,South Africa,China,3305,Hair preparations; for use on the hair,42166,83821
+HS,2018,201804,Apr-18,Imports,710,South Africa,China,3305,Hair preparations; for use on the hair,15699,31430
+HS,2018,201802,Feb-18,Imports,710,South Africa,China,3305,Hair preparations; for use on the hair,62737,181705
+HS,2018,201804,Apr-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,4298,17987
+HS,2018,201801,Jan-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,3480,8756
+HS,2018,201801,Jan-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,556,4786
+HS,2018,201801,Jan-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,361292,733417
+HS,2018,201811,Nov-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,4827
+HS,2018,201811,Nov-18,Exports,124,Canada,China,330530,Hair preparations; lacquers,158,765
+HS,2018,201811,Nov-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,9270,58828
+HS,2018,201805,May-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,387017,675314
+HS,2018,201805,May-18,Imports,826,United Kingdom,China,330520,Hair preparations; for permanent waving or straightening,1250,3140
+HS,2018,201805,May-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,6205,17890
+HS,2018,201805,May-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,152320,553465
+HS,2018,201803,Mar-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,1599,10147
+HS,2018,201806,Jun-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,16300,288885
+HS,2018,201806,Jun-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,524341,764600
+HS,2018,201806,Jun-18,Exports,826,United Kingdom,China,330530,Hair preparations; lacquers,1502,22139
+HS,2018,201806,Jun-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,5629,15662
+HS,2018,201805,May-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,21685,689565
+HS,2018,201808,Aug-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,3444,14825
+HS,2018,201806,Jun-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,341103,605238
+HS,2018,201806,Jun-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,2930,9152
+HS,2018,201806,Jun-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,145471,373517
+HS,2018,201803,Mar-18,Imports,710,South Africa,China,330510,Hair preparations; shampoos,13867,24023
+HS,2018,201803,Mar-18,Imports,710,South Africa,China,330520,Hair preparations; for permanent waving or straightening,1527,3805
+HS,2018,201803,Mar-18,Imports,710,South Africa,China,330530,Hair preparations; lacquers,1889,1921
+HS,2018,201803,Mar-18,Imports,710,South Africa,China,330590,Hair preparations; n.e.s. in heading no. 3305,24883,54073
+HS,2018,201803,Mar-18,Imports,826,United Kingdom,China,330520,Hair preparations; for permanent waving or straightening,1250,3510
+HS,2018,201808,Aug-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,104447,219573
+HS,2018,201803,Mar-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,51428,327877
+HS,2018,201802,Feb-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,629,12016
+HS,2018,201802,Feb-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,272,12324
+HS,2018,201808,Aug-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,1643,8345
+HS,2018,201811,Nov-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,152051
+HS,2018,201811,Nov-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,36700,142253
+HS,2018,201803,Mar-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,1052,4079
+HS,2018,201803,Mar-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,2651,14226
+HS,2018,201809,Sep-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,141429
+HS,2018,201807,Jul-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,2059,7981
+HS,2018,201804,Apr-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,113657,642994
+HS,2018,201811,Nov-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,46128,201846
+HS,2018,201805,May-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,546792,1249809
+HS,2018,201808,Aug-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,28697,139959
+HS,2018,201808,Aug-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,346301
+HS,2018,201808,Aug-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,,1136657
+HS,2018,201808,Aug-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,657203,1799596
+HS,2018,201802,Feb-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,106280,179479
+HS,2018,201803,Mar-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,118945
+HS,2018,201804,Apr-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,145043
+HS,2018,201805,May-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,2680,10388
+HS,2018,201805,May-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,2680,10388
+HS,2018,201801,Jan-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,4052,15704
+HS,2018,201804,Apr-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,44278,85085
+HS,2018,201806,Jun-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,0,61644
+HS,2018,201804,Apr-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,78156,1821495
+HS,2018,201810,Oct-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,0,972000
+HS,2018,201809,Sep-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,9387,36383
+HS,2018,201808,Aug-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,67565,551823
+HS,2018,201807,Jul-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,,1049935
+HS,2018,201802,Feb-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,901,24340
+HS,2018,201808,Aug-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,17068,66155
+HS,2018,201806,Jun-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,23431,326686
+HS,2018,201806,Jun-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,58788,405059
+HS,2018,201802,Feb-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,0,507512
+HS,2018,201805,May-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,0,973867
+HS,2018,201807,Jul-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,532918,1285684
+HS,2018,201807,Jul-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,10548,229448
+HS,2018,201803,Mar-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,0,492498
+HS,2018,201805,May-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,94840,344304
+HS,2018,201802,Feb-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,82022,503371
+HS,2018,201803,Mar-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,73559,768111
+HS,2018,201807,Jul-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,198849
+HS,2018,201803,Mar-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,376755,966596
+HS,2018,201808,Aug-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,48074,311886
+HS,2018,201807,Jul-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,4358,22571
+HS,2018,201807,Jul-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,110943,240464
+HS,2018,201802,Feb-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,13813,53539
+HS,2018,201806,Jun-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,86929,190686
+HS,2018,201804,Apr-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,0,22013
+HS,2018,201802,Feb-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,16752,72192
+HS,2018,201806,Jun-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,0,45795
+HS,2018,201801,Jan-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,,963737
+HS,2018,201801,Jan-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,460587,1762217
+HS,2018,201810,Oct-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,217990
+HS,2018,201804,Apr-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,439765,1055882
+HS,2018,201802,Feb-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,172355
+HS,2018,201806,Jun-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,0,996488
+HS,2018,201805,May-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,260518
+HS,2018,201802,Feb-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,479773,1218168
+HS,2018,201805,May-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,171478,1285200
+HS,2018,201810,Oct-18,Exports,124,Canada,China,330510,Hair preparations; shampoos,8982,34815
+HS,2018,201801,Jan-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,24689,298225
+HS,2018,201801,Jan-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,44172,107322
+HS,2018,201809,Sep-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,12012,53044
+HS,2018,201809,Sep-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,656426,1680201
+HS,2018,201804,Apr-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,0,60249
+HS,2018,201804,Apr-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,,586548
+HS,2018,201811,Nov-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,,820203
+HS,2018,201808,Aug-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,314932,781530
+HS,2018,201808,Aug-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,480
+HS,2018,201809,Sep-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,6333,24194
+HS,2018,201809,Sep-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,372194,728608
+HS,2018,201802,Feb-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,360949,743181
+HS,2018,201802,Feb-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,118824,474987
+HS,2018,201805,May-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,1503,8354
+HS,2018,201805,May-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,169975,1276846
+HS,2018,201804,Apr-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,74481,1582964
+HS,2018,201808,Aug-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,62352,444748
+HS,2018,201804,Apr-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,3675,238531
+HS,2018,201807,Jul-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,105185,195614
+HS,2018,201804,Apr-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,109359,625007
+HS,2018,201807,Jul-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,5477,149205
+HS,2018,201807,Jul-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,5071,80243
+HS,2018,201804,Apr-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,3882
+HS,2018,201802,Feb-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,5950,31876
+HS,2018,201811,Nov-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,1049,6267
+HS,2018,201811,Nov-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,332887,657058
+HS,2018,201801,Jan-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,22309,262679
+HS,2018,201801,Jan-18,Exports,826,United Kingdom,China,330530,Hair preparations; lacquers,355,5353
+HS,2018,201801,Jan-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,2025,30193
+HS,2018,201806,Jun-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,6,585
+HS,2018,201801,Jan-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,1473,9346
+HS,2018,201806,Jun-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,8400,35920
+HS,2018,201801,Jan-18,Imports,710,South Africa,China,330510,Hair preparations; shampoos,27011,92938
+HS,2018,201801,Jan-18,Imports,710,South Africa,China,330520,Hair preparations; for permanent waving or straightening,6,49
+HS,2018,201801,Jan-18,Imports,710,South Africa,China,330590,Hair preparations; n.e.s. in heading no. 3305,43913,89720
+HS,2018,201806,Jun-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,78523,154181
+HS,2018,201803,Mar-18,Exports,826,United Kingdom,China,330530,Hair preparations; lacquers,311,3982
+HS,2018,201803,Mar-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,107056,237082
+HS,2018,201808,Aug-18,Imports,724,Spain,China,3305,Hair preparations; for use on the hair,107895,235127
+HS,2018,201806,Jun-18,Imports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,489504,987907
+HS,2018,201801,Jan-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,136357,838007
+HS,2018,201809,Sep-18,Imports,124,Canada,China,3305,Hair preparations; for use on the hair,,894898
+HS,2018,201809,Sep-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,7503,113036
+HS,2018,201803,Mar-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,71260,646902
+HS,2018,201806,Jun-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,209871
+HS,2018,201801,Jan-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,5524,25050
+HS,2018,201807,Jul-18,Exports,724,Spain,China,3305,Hair preparations; for use on the hair,118574,946777
+HS,2018,201805,May-18,Exports,826,United Kingdom,China,3305,Hair preparations; for use on the hair,23151,740401
+HS,2018,201801,Jan-18,Imports,124,Canada,China,330510,Hair preparations; shampoos,,222917
+HS,2018,201810,Oct-18,Exports,124,Canada,China,3305,Hair preparations; for use on the hair,22703,121889
+HS,2018,201803,Mar-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,1741,41796
+HS,2018,201803,Mar-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,66261,596857
+HS,2018,201809,Sep-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,2625,16661
+HS,2018,201809,Sep-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,668
+HS,2018,201808,Aug-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,5214,107075
+HS,2018,201804,Apr-18,Imports,710,South Africa,China,330590,Hair preparations; n.e.s. in heading no. 3305,11864,22824
+HS,2018,201807,Jul-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,112163,897902
+HS,2018,201808,Aug-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,11630,73804
+HS,2018,201802,Feb-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,100322,146813
+HS,2018,201802,Feb-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,27,82
+HS,2018,201805,May-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,668,5894
+HS,2018,201805,May-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,400255,704276
+HS,2018,201805,May-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,3179
+HS,2018,201809,Sep-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,5090,33846
+HS,2018,201809,Sep-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,2413,79190
+HS,2018,201802,Feb-18,Imports,710,South Africa,China,330520,Hair preparations; for permanent waving or straightening,2211,1145
+HS,2018,201803,Mar-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,96696,207873
+HS,2018,201803,Mar-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,8,562
+HS,2018,201803,Mar-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,10352,28647
+HS,2018,201801,Jan-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,36172,71348
+HS,2018,201807,Jul-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,5755,44223
+HS,2018,201807,Jul-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,4,626
+HS,2018,201807,Jul-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,273
+HS,2018,201804,Apr-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,2220,17788
+HS,2018,201807,Jul-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,2299,14590
+HS,2018,201806,Jun-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,56268,395536
+HS,2018,201807,Jul-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,978,11072
+HS,2018,201807,Jul-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,475531,839741
+HS,2018,201804,Apr-18,Imports,710,South Africa,China,330530,Hair preparations; lacquers,561,212
+HS,2018,201804,Apr-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,12,762
+HS,2018,201809,Sep-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,351695,703269
+HS,2018,201809,Sep-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,19055,68128
+HS,2018,201809,Sep-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,285676,908805
+HS,2018,201801,Jan-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,7986,35051
+HS,2018,201802,Feb-18,Imports,710,South Africa,China,330530,Hair preparations; lacquers,2573,3772
+HS,2018,201801,Jan-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,14,923
+HS,2018,201802,Feb-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,81995,503289
+HS,2018,201807,Jul-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,303877,568087
+HS,2018,201807,Jul-18,Imports,826,United Kingdom,China,330520,Hair preparations; for permanent waving or straightening,1250,3294
+HS,2018,201807,Jul-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,8363,39691
+HS,2018,201807,Jul-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,219428,674611
+HS,2018,201810,Oct-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,5067
+HS,2018,201801,Jan-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,132877,829251
+HS,2018,201810,Oct-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,13721,87074
+HS,2018,201805,May-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,13,1372
+HS,2018,201806,Jun-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,4094,18198
+HS,2018,201805,May-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,7774,172364
+HS,2018,201802,Feb-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,190004,324231
+HS,2018,201803,Mar-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,6987,167272
+HS,2018,201808,Aug-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,354645,1025147
+HS,2018,201808,Aug-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,2388,7680
+HS,2018,201808,Aug-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,300170,766769
+HS,2018,201804,Apr-18,Imports,710,South Africa,China,330510,Hair preparations; shampoos,3274,8394
+HS,2018,201802,Feb-18,Imports,710,South Africa,China,330510,Hair preparations; shampoos,29527,99613
+HS,2018,201802,Feb-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,3636,10867
+HS,2018,201804,Apr-18,Imports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,2086,23598
+HS,2018,201802,Feb-18,Imports,710,South Africa,China,330590,Hair preparations; n.e.s. in heading no. 3305,28426,77174
+HS,2018,201804,Apr-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,42181,60725
+HS,2018,201806,Jun-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,2498,15849
+HS,2018,201805,May-18,Imports,724,Spain,China,330510,Hair preparations; shampoos,87053,170568
+HS,2018,201810,Oct-18,Imports,124,Canada,China,330530,Hair preparations; lacquers,1539,8789
+HS,2018,201810,Oct-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,385468,740154
+HS,2018,201803,Mar-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,3880
+HS,2018,201805,May-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,1466,50836
+HS,2018,201803,Mar-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,92906,356834
+HS,2018,201803,Mar-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,1543,7980
+HS,2018,201803,Mar-18,Exports,724,Spain,China,330590,Hair preparations; n.e.s. in heading no. 3305,69717,638922
+HS,2018,201806,Jun-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,3819
+HS,2018,201801,Jan-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,266265,498791
+HS,2018,201801,Jan-18,Imports,826,United Kingdom,China,330520,Hair preparations; for permanent waving or straightening,1250,3374
+HS,2018,201801,Jan-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,8377,25807
+HS,2018,201801,Jan-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,184695,1234244
+HS,2018,201802,Feb-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,58
+HS,2018,201803,Mar-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,277983,573330
+HS,2018,201807,Jul-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,6411,48876
+HS,2018,201802,Feb-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,2939,18653
+HS,2018,201804,Apr-18,Imports,826,United Kingdom,China,330510,Hair preparations; shampoos,280459,542790
+HS,2018,201804,Apr-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,2778,10916
+HS,2018,201804,Apr-18,Imports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,156528,502175
+HS,2018,201804,Apr-18,Imports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,112332,419835
+HS,2018,201808,Aug-18,Exports,826,United Kingdom,China,330510,Hair preparations; shampoos,44160,219375
+HS,2018,201808,Aug-18,Exports,826,United Kingdom,China,330530,Hair preparations; lacquers,200,4412
+HS,2018,201808,Aug-18,Exports,826,United Kingdom,China,330590,Hair preparations; n.e.s. in heading no. 3305,3714,88099
+HS,2018,201806,Jun-18,Exports,724,Spain,China,330510,Hair preparations; shampoos,2520,9523
+HS,2018,201808,Aug-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,4,729
+HS,2018,201803,Mar-18,Imports,826,United Kingdom,China,330530,Hair preparations; lacquers,4616,32921
+HS,2018,201801,Jan-18,Imports,124,Canada,China,330520,Hair preparations; for permanent waving or straightening,,2617
+HS,2018,201802,Feb-18,Imports,724,Spain,China,330520,Hair preparations; for permanent waving or straightening,8,790
+HS,2018,201804,Apr-18,Exports,124,Canada,China,330590,Hair preparations; n.e.s. in heading no. 3305,6025,38236
