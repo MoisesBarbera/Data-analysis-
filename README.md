@@ -4,10 +4,10 @@
 ###  1. Haircare_Market_Analysis.ipynb
 A deep analysis comparing the haircare trade flow between the USA and China compared to China and the World.
     · Haircare Market analysis.ipynb
-###  1. Amazon_Alexa_Reviews_Analysis.ipynb
+###  2. Amazon_Alexa_Reviews_Analysis.ipynb
 An extensive analysis on a big amount of reviews from the Amazon Alexa devices (data from Kaggle.com - amazon_alexa.tsv)
     · Amazon_Alexa_Reviews_Analysis.ipynb
-###  2. Predicting_Bussiness_Revenue_Linear_Regresion.ipynb	
+###  3. Predicting_Bussiness_Revenue_Linear_Regresion.ipynb	
 A case scenario of a small business predicting its expected revenue depending on the temperature on a given day (data IceCream.csv)
     · Predicting_Bussiness_Revenue_Linear_Regresion.ipynb	
 
