@@ -11,7 +11,7 @@ An extensive analysis on a big amount of reviews from the Amazon Alexa devices (
 A case scenario of a small business predicting its expected revenue depending on the temperature on a given day (data IceCream.csv)
 
 ###  4. ML_Brast_Cancer_Classification.ipynb
-A Machine Learning study step by step on how to classify cancer diagnosis in malignant or benign basedd on the input characteristics. Data provided from Sklearn. The study also shows how to improve a Machine Learning model by introducing normalisation and selection of best parametres.
+A Machine Learning study step by step on how to classify cancer diagnosis in malignant or benign basedd on the input characteristics. Data provided by Sklearn. The study also shows how to improve a Machine Learning model by introducing normalisation and selection of best parametres.
 
 
 ### Covering topicts on:
